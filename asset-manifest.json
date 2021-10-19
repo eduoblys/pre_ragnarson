@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/pre_ragnarson/static/css/main.ca528f54.chunk.css",
-    "main.js": "/pre_ragnarson/static/js/main.5905bf78.chunk.js",
-    "main.js.map": "/pre_ragnarson/static/js/main.5905bf78.chunk.js.map",
+    "main.css": "/pre_ragnarson/static/css/main.17e8bc3e.chunk.css",
+    "main.js": "/pre_ragnarson/static/js/main.4d43cba8.chunk.js",
+    "main.js.map": "/pre_ragnarson/static/js/main.4d43cba8.chunk.js.map",
     "runtime-main.js": "/pre_ragnarson/static/js/runtime-main.1305e9ec.js",
     "runtime-main.js.map": "/pre_ragnarson/static/js/runtime-main.1305e9ec.js.map",
     "static/js/2.4c018ede.chunk.js": "/pre_ragnarson/static/js/2.4c018ede.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.52106016.chunk.js": "/pre_ragnarson/static/js/3.52106016.chunk.js",
     "static/js/3.52106016.chunk.js.map": "/pre_ragnarson/static/js/3.52106016.chunk.js.map",
     "index.html": "/pre_ragnarson/index.html",
-    "static/css/main.ca528f54.chunk.css.map": "/pre_ragnarson/static/css/main.ca528f54.chunk.css.map",
+    "static/css/main.17e8bc3e.chunk.css.map": "/pre_ragnarson/static/css/main.17e8bc3e.chunk.css.map",
     "static/js/2.4c018ede.chunk.js.LICENSE.txt": "/pre_ragnarson/static/js/2.4c018ede.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/pre_ragnarson/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.1305e9ec.js",
     "static/js/2.4c018ede.chunk.js",
-    "static/css/main.ca528f54.chunk.css",
-    "static/js/main.5905bf78.chunk.js"
+    "static/css/main.17e8bc3e.chunk.css",
+    "static/js/main.4d43cba8.chunk.js"
   ]
 }
